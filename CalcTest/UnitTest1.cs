@@ -20,16 +20,11 @@ namespace CalculatorTests
             Logic.Calc.Calculate("(4+8)/2").Should().Be("6");
         }
 
-        [Test]
-        public void Div_Zero()
-        {
-            Assert.Throws<Exception>(() => Logic.Calc.Calculate("2/0"));
-        }
 
         [Test]
         public void Words()
         {
-            Assert.Throws<Exception>(() => Logic.Calc.Calculate("текст"));
+            Assert.Throws<Exception>(() => Logic.Calc.Calculate("ГІГҐГЄГ±ГІ"));
         }
 
         [Test]
