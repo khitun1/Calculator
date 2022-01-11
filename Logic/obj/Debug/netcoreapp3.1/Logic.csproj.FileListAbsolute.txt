@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Calculator\Logic\bin\Debug\netcoreapp3.1\Logic.deps.json
+C:\Users\Admin\source\repos\Calculator\Logic\bin\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Admin\source\repos\Calculator\Logic\bin\Debug\netcoreapp3.1\Logic.pdb
+C:\Users\Admin\source\repos\Calculator\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calculator\Logic\obj\Debug\netcoreapp3.1\Logic.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calculator\Logic\obj\Debug\netcoreapp3.1\Logic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator\Logic\obj\Debug\netcoreapp3.1\Logic.dll
+C:\Users\Admin\source\repos\Calculator\Logic\obj\Debug\netcoreapp3.1\Logic.pdb
